@@ -1,2 +1,2 @@
-- To compile:
+To compile:
 - javac *.java
